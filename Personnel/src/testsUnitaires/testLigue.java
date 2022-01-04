@@ -64,4 +64,6 @@ class testLigue
 		ligue.remove();
 		assertEquals(false, gestionPersonnel.getLigues().contains(ligue));
 	}
+	
+	// assertEquals()
 }
